@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  font-family: cursive;
+  background: #000;
+  color: aliceblue;
+}
+
+.content {
+  padding: 4rem;
+}
+
+section {
+  border: 2px solid gainsboro;
+  margin: 20px 0px;
+  padding: 20px;
+}
+
+section h1 {
+  margin: 15px 0px;
+}
+
+.scroll-indicator {
+  height: 3px;
+  width: calc(100% - 6em);
+  position: fixed;
+  top: 10px;
+  left: 3em;
+  border-radius: 3px;
+}
+
+.progress {
+  height: 100%;
+  width: 0;
+  border-radius: 3px;
+  background: linear-gradient(50deg, #08c3ed, #9102d3);
+  transition: width 0.1s;
+}
