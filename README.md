@@ -5,7 +5,6 @@ This project showcases the beauty and simplicity of a **Page Scroll Indicator** 
 ## Features
 
 - **Minimalist Design:** A sleek, unobtrusive scroll indicator that seamlessly integrates with your webpage.
-- **Responsive:** Works smoothly on all screen sizes and modern browsers.
 - **Lightweight:** No external libraries required; pure HTML, CSS, and JavaScript.
 - **Customizable:** Easily adaptable to match your website's theme.
 
